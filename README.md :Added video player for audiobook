@@ -1,4 +1,4 @@
-# Mindset & Money Audiobook
+<h1>Mindset & Money Audiobook</h1>
 
 A short audiobook about mindset, money, and financial freedom.  
 No reading — just listening.
@@ -14,6 +14,8 @@ https://heartfelt-pavlova-4b5f80.netlify.app
   <audio controls style="width:100%; max-width:400px;">
     <source src="audiobook.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
-  </audio>
-</div></body>
+   </audio>
+</div>
+
+</body>
 </html>
